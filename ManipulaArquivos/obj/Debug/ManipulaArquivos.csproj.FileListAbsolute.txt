@@ -1,0 +1,9 @@
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\ManipulaArquivos\ManipulaArquivos\bin\Debug\ManipulaArquivos.exe.config
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\ManipulaArquivos\ManipulaArquivos\bin\Debug\ManipulaArquivos.exe
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\ManipulaArquivos\ManipulaArquivos\bin\Debug\ManipulaArquivos.pdb
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\ManipulaArquivos\ManipulaArquivos\obj\Debug\ManipulaArquivos.csprojResolveAssemblyReference.cache
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\ManipulaArquivos\ManipulaArquivos\obj\Debug\ManipulaArquivos.Properties.Resources.resources
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\ManipulaArquivos\ManipulaArquivos\obj\Debug\ManipulaArquivos.csproj.GenerateResource.Cache
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\ManipulaArquivos\ManipulaArquivos\obj\Debug\ManipulaArquivos.exe
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\ManipulaArquivos\ManipulaArquivos\obj\Debug\ManipulaArquivos.pdb
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\ManipulaArquivos\ManipulaArquivos\obj\Debug\ManipulaArquivos.Form1.resources
